@@ -1,0 +1,13 @@
+{
+  "name": "balouch-ai",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "node sync.js",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
